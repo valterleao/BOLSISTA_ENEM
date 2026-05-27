@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/api/client.ts","./src/components/evolutiongraph.tsx","./src/components/executionlogmodal.tsx","./src/components/obsidianlayout.tsx","./src/components/themetoggle.tsx","./src/context/themecontext.tsx","./src/pages/analises.tsx","./src/pages/dashboard.tsx","./src/pages/grupoideal.tsx"],"version":"5.9.3"}

@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+data/processed/*.parquet
+data/processed/*.csv
+data/processed/*.json
+data/processed/charts/
+node_modules/
+web/dist/
+pdf_extract.txt
+.DS_Store
+.cursor/
+
+# Microdados ENEM (baixar do INEP - ver link no README.md)
+microdados_enem_2024/
